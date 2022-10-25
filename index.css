@@ -311,3 +311,22 @@ button:hover {
     color: rgb(190, 8, 162);
     background-color: wheat;
 }
+
+ button{
+        border:3px solid green;
+        background-color:black;
+        border-radius:15px;
+        color:white;
+        font-size:2rem;
+    }
+    button:Hover{
+        background-color:yellow;
+        color: hotpink;
+        font-size: 2.5rem;
+
+    }
+    
+    
+    
+    
+    
