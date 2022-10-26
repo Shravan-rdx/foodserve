@@ -312,14 +312,14 @@ button:hover {
     background-color: wheat;
 }
 
- button2{
+ .submit button{
         border:3px solid green;
         background-color:black;
         border-radius:15px;
         color:white;
         font-size:2rem;
     }
-    button2:hover{
+    .submit button:hover{
         background-color:yellow;
         color: hotpink;
         font-size: 2.5rem;
