@@ -312,8 +312,17 @@ button:hover {
     background-color: wheat;
     font-size:2.5rem;
 }
-    
-    
+
+.btn2 {
+    padding: 10px 20px;
+    border: 2px solid hotpink;
+    background-color: brown;
+    color: white;
+    margin: 20px 20px;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    cursor: pointer;
+}
     
     
     
